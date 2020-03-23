@@ -3,7 +3,7 @@
 ## Slide
 
 ### Before the Workshop
-Ensure you have a copy of the workbook
+Ensure you have a copy of the workbook <p>
 Ensure you have (or are sharing) a job readiness survey
 Have something to write with
 ### During the workshop
